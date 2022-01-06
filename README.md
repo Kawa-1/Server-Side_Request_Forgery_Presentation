@@ -1,9 +1,11 @@
 #Jak zintegrować Burp z przeglądarką, aby wykonać ćwiczenia?
-###1. Można się posłużyć instrukcją z labów: https://github.com/djuszka/BAWiM_lab_2021/blob/main/BAWiM_lab2.md#user-content-zadanie-2-konfiguracja-przegl%C4%85darki
-###2. Albo skorzystać z przeglądarki wbudowanej w burpa: proxy -> Open browser. Teraz podając adres url do przeglądarki można przystąpić do wykonywania zadań.
+<ul>
+<li>Można się posłużyć instrukcją z labów: https://github.com/djuszka/BAWiM_lab_2021/blob/main/BAWiM_lab2.md#user-content-zadanie-2-konfiguracja-przegl%C4%85darki</li>
+<li>Albo skorzystać z przeglądarki wbudowanej w burpa: proxy -> Open browser. Teraz podając adres url do przeglądarki można przystąpić do wykonywania zadań.</li>
+</ul>
 
 
-#Zadania
+<h1>Zadania</h1>
 
 ## Zadanie 1
 W tym zadaniu podobnie jak w każdym kolejnym będziemy musieli usunąć użytkownika Carlos. W tym celu trzeba dostać się do panelu admina.  
